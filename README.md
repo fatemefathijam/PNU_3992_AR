@@ -8,7 +8,7 @@
 - [SOP](#)
 - [patchwork](#)
 - [Javascript Certification](https://github.com/fatemefathijam/SoloLearn.github.io#readme)
-- [پاسخنامه تشریحی درس مهندسی نرم افزار پیشرفته](https://github.com/fatemefathijam/PNU_3992_AR/blob/main/%D9%81%D8%AA%D8%AD%DB%8C%E2%80%8C%D8%AC%D9%85_%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C%E2%80%8C%D9%86%D8%B1%D9%85%E2%80%8C%D8%A7%D9%81%D8%B2%D8%A7%D8%B1%E2%80%8C%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87.pdf)
+- [پاسخنامه تشریحی درس مهندسی نرم افزار پیشرفته](https://github.com/fatemefathijam/PNU_3992_AR/blob/main/%D9%81%D8%AA%D8%AD%DB%8C_%D8%AC%D9%85_%D9%85%D9%87%D9%86%D8%AF%D8%B3%DB%8C_%D9%86%D8%B1%D9%85_%D8%A7%D9%81%D8%B2%D8%A7%D8%B1_%D9%BE%DB%8C%D8%B4%D8%B1%D9%81%D8%AA%D9%87.pdf)
 --------------------
 ## ارزیابی عمومی
 - [ارزیابی رزومه و انگیزه نامه](#)
